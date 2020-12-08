@@ -32,41 +32,41 @@ public class States_Capitals {
 	    capitalCities.put("Maine", "Augusta");
 	    capitalCities.put("Maryland", "Annapolis");
 	    
-	    capitalCities.put("Colorado","Denver");
-	    capitalCities.put("Alaska", "Juneau");
-	    capitalCities.put("Arizona", "Phoenix");
-	    capitalCities.put("Arkansas", "	Little Rock");
-	    capitalCities.put("Alabama"	,"Montgomery");
+	    capitalCities.put("Massachusetts", "Boston");
+	    capitalCities.put("Michigan", "Lansing");
+	    capitalCities.put("Minnesota", "Saint Paul");
+	    capitalCities.put("Mississippi", "Jackson");
+	    capitalCities.put("Missouri", "Jefferson City");
 	    
-	    capitalCities.put("Colorado","Denver");
-	    capitalCities.put("Alaska", "Juneau");
-	    capitalCities.put("Arizona", "Phoenix");
-	    capitalCities.put("Arkansas", "	Little Rock");
-	    capitalCities.put("Alabama"	,"Montgomery");
+	    capitalCities.put("Montana", "Helena");
+	    capitalCities.put("Nebraska", "Lincoln");
+	    capitalCities.put("Nevada", "Carson City");
+	    capitalCities.put( "New Hampshire", "Concord");
+	    capitalCities.put("New Jersey", "Trenton");
 	    
-	    capitalCities.put("Colorado","Denver");
-	    capitalCities.put("Alaska", "Juneau");
-	    capitalCities.put("Arizona", "Phoenix");
-	    capitalCities.put("Arkansas", "	Little Rock");
-	    capitalCities.put("Alabama"	,"Montgomery");
+	    capitalCities.put("New Mexico", "Santa Fe");
+	    capitalCities.put("New York", "Albany");
+	    capitalCities.put("North Carolina", "Raleigh");
+	    capitalCities.put("North Dakota", "Bismarck");
+	    capitalCities.put("Ohio", "Columbus");
 	    
-	    capitalCities.put("Colorado","Denver");
-	    capitalCities.put("Alaska", "Juneau");
-	    capitalCities.put("Arizona", "Phoenix");
-	    capitalCities.put("Arkansas", "	Little Rock");
-	    capitalCities.put("Alabama"	,"Montgomery");
+	    capitalCities.put("Oklahoma", "Oklahoma City");
+	    capitalCities.put("Oregon", "Salem");
+	    capitalCities.put("Pennsylvania", "Harrisburg");
+	    capitalCities.put("Rhode Island", "Providence");
+	    capitalCities.put("South Carolina", "Columbia");
 	    
-	    capitalCities.put("Colorado","Denver");
-	    capitalCities.put("Alaska", "Juneau");
-	    capitalCities.put("Arizona", "Phoenix");
-	    capitalCities.put("Arkansas", "	Little Rock");
-	    capitalCities.put("Alabama"	,"Montgomery");
+	    capitalCities.put("South Dakota", "Pierre");
+	    capitalCities.put("Tennessee", "Nashville");
+	    capitalCities.put("Texas", "Austin");
+	    capitalCities.put("Utah", "Salt Lake City");
+	    capitalCities.put("Vermont", "Montpelier");
 	    
-	    capitalCities.put("Colorado","Denver");
-	    capitalCities.put("Alaska", "Juneau");
-	    capitalCities.put("Arizona", "Phoenix");
-	    capitalCities.put("Arkansas", "	Little Rock");
-	    capitalCities.put("Alabama"	,"Montgomery");
+	    capitalCities.put("Virginia", "Richmond");
+	    capitalCities.put( "Washington", "Olympia");
+	    capitalCities.put("Wyoming", "Cheyenne");
+	    capitalCities.put("West Virginia", "Charleston");
+	    capitalCities.put("Wisconsin", "Madison");
 		
 
 	}
